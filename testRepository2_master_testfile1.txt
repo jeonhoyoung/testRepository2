@@ -2,4 +2,4 @@ testRepository2 > master > testfile1
 - 0313
 1230
 1657
-1701 -> 서버에서 
+1701 -> 서버에서 수정1
