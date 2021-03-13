@@ -1,4 +1,4 @@
 testRepository2 > testfile1 > sub1
 - 0313
 1652
-1659 -> 아직저장안함
+1659
