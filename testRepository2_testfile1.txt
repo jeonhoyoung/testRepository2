@@ -1,2 +1,2 @@
-testRepository2 > testfile1 > master
-03131212
+testRepository2 > testfile1 > sub1
+03131224
